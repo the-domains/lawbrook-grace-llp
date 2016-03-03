@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Lawbrook Grace LLP]]></title>
         <description><![CDATA[Lawbrook Grace LLP]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lawbrook-grace-llp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 17:34:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Mar 2016 17:34:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lawbrook-grace-llp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.lawbrookgrace.co.uk/communities/8/004/012/861/858//images/4614571112.jpg">]]></description>
+            <link>https://thegrid.ai/lawbrook-grace-llp/1a45d9bc-27fd-44e8-8a99-8b9aa70c0311/index.html</link>
+            <guid isPermaLink="false">1a45d9bc-27fd-44e8-8a99-8b9aa70c0311</guid>
+            <pubDate>Thu, 03 Mar 2016 17:34:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.lawbrookgrace.co.uk/communities/8/004/012/861/858//images/4614581219_329x324.jpg">]]></description>
-            <link>undefined87b57b2f-3465-4258-a5a8-42080af057fd/index.html</link>
+            <link>https://thegrid.ai/lawbrook-grace-llp/87b57b2f-3465-4258-a5a8-42080af057fd/index.html</link>
             <guid isPermaLink="false">87b57b2f-3465-4258-a5a8-42080af057fd</guid>
             <pubDate>Thu, 03 Mar 2016 17:34:51 GMT</pubDate>
         </item>
