@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lawbrook Grace LLP]]></title>
+        <description><![CDATA[Lawbrook Grace LLP]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Mar 2016 17:34:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.lawbrookgrace.co.uk/communities/8/004/012/861/858//images/4614581219_329x324.jpg">]]></description>
+            <link>undefined87b57b2f-3465-4258-a5a8-42080af057fd/index.html</link>
+            <guid isPermaLink="false">87b57b2f-3465-4258-a5a8-42080af057fd</guid>
+            <pubDate>Thu, 03 Mar 2016 17:34:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
